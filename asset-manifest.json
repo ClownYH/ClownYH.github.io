@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.454ce508.css",
-    "main.js": "/static/js/main.412d2859.js",
+    "main.js": "/static/js/main.f83b9b64.js",
     "static/media/texture-of-wooden-boards.jpg": "/static/media/texture-of-wooden-boards.4dfdb68fe0d86d973596.jpg",
     "static/media/texture-of-wooden-boards_180deg.jpg": "/static/media/texture-of-wooden-boards_180deg.c82cac2d2918519439e5.jpg",
     "static/media/a-jazz-piano.mp3": "/static/media/a-jazz-piano.304176dd8c67519356a4.mp3",
     "static/media/6464359.jpg": "/static/media/6464359.5d448eac4669016b3ae6.jpg",
     "index.html": "/index.html",
     "main.454ce508.css.map": "/static/css/main.454ce508.css.map",
-    "main.412d2859.js.map": "/static/js/main.412d2859.js.map"
+    "main.f83b9b64.js.map": "/static/js/main.f83b9b64.js.map"
   },
   "entrypoints": [
     "static/css/main.454ce508.css",
-    "static/js/main.412d2859.js"
+    "static/js/main.f83b9b64.js"
   ]
 }
